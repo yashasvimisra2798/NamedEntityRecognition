@@ -1,1 +1,1 @@
-Name Entity Recognition Using LSTM's and Keras
+Nameed Entity Recognition Using LSTM's and Keras
